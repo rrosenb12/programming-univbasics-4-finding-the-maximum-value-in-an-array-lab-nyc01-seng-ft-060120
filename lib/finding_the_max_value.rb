@@ -1,5 +1,5 @@
 def find_max_value(array)
-  array.each do |i|
+  sorted_array = array.sort
 
   # Add your solution here
 end
